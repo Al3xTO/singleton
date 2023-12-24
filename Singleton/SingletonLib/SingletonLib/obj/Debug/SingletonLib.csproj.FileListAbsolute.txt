@@ -1,0 +1,12 @@
+C:\Users\Alexey\Desktop\Laba\SingletonLib\SingletonLib\bin\Debug\SingletonLib.dll
+C:\Users\Alexey\Desktop\Laba\SingletonLib\SingletonLib\bin\Debug\SingletonLib.pdb
+C:\Users\Alexey\Desktop\Laba\SingletonLib\SingletonLib\obj\Debug\SingletonLib.csproj.AssemblyReference.cache
+C:\Users\Alexey\Desktop\Laba\SingletonLib\SingletonLib\obj\Debug\SingletonLib.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Laba\SingletonLib\SingletonLib\obj\Debug\SingletonLib.dll
+C:\Users\Alexey\Desktop\Laba\SingletonLib\SingletonLib\obj\Debug\SingletonLib.pdb
+C:\Users\Admin\Desktop\Singleton\SingletonLib\SingletonLib\bin\Debug\SingletonLib.dll
+C:\Users\Admin\Desktop\Singleton\SingletonLib\SingletonLib\bin\Debug\SingletonLib.pdb
+C:\Users\Admin\Desktop\Singleton\SingletonLib\SingletonLib\obj\Debug\SingletonLib.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Singleton\SingletonLib\SingletonLib\obj\Debug\SingletonLib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Singleton\SingletonLib\SingletonLib\obj\Debug\SingletonLib.dll
+C:\Users\Admin\Desktop\Singleton\SingletonLib\SingletonLib\obj\Debug\SingletonLib.pdb
